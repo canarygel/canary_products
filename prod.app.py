@@ -2,12 +2,12 @@ import streamlit as st
 import pandas as pd
 import os
 
-# Data path (renamed to avoid spaces)
+# Path to your dataset
 data_path = os.path.join("data", "products.csv")
 
-# Load CSV safely
+# Load dataset
 if os.path.exists(data_path):
-    df = pd.read_csv(data_path)
+    df = pd.read_csv(data_path, sep=",")  # adjust delimiter if needed
 else:
     st.error(f"❌ Could not find dataset at: {data_path}")
     st.stop()
@@ -15,26 +15,16 @@ else:
 st.title("🛠️ Canary Products Workflow Tracker")
 
 # Select a product
-product_col = "Product Name" if "Product Name" in df.columns else df.columns[0]
-product = st.selectbox("Select a product", df[product_col].unique())
+product = st.selectbox("Select a product", df["Product"].unique())
 
-# Show product details
-st.subheader("📋 Product Details")
-st.write(df[df[product_col] == product])
+# Filter data for the selected product
+product_data = df[df["Product"] == product]
 
-# Example workflow stages & tasks
-workflow = {
-    "Design": ["Finalize design", "Review specifications", "Get approvals"],
-    "Manufacturing": ["Source materials", "Set up production line", "Run initial batch"],
-    "Testing": ["QA testing", "Safety compliance", "User feedback"],
-    "Launch": ["Marketing prep", "Distribute units", "Post-launch support"]
-}
+st.subheader("📋 Product Workflow")
 
-st.subheader("✅ Workflow Checklist")
-
-# Interactive checklist
-for stage, tasks in workflow.items():
+# Group by stage and list tasks
+for stage, group in product_data.groupby("Stage"):
     st.markdown(f"### {stage}")
-    for task in tasks:
+    for task in group["Checklist"]:
         key = f"{product}_{stage}_{task}"
         st.checkbox(task, key=key)
