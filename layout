@@ -1,0 +1,6 @@
+canary-products-repo/
+│── app.py
+│── requirements.txt
+│── README.md
+│── data/
+    └── products.csv
