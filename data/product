@@ -1,0 +1,124 @@
+Product,Stage,Checklist
+Digital Authorizations,Pre-Training,Account Setup (CSA)
+Digital Authorizations,Pre-Training,Intro Email
+Digital Authorizations,Pre-Training,Call Scheduled
+Digital Authorizations,Pre-Training,Call Confirmation 
+Digital Authorizations,Pre-Training,Login Details Sent
+Digital Authorizations,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Digital Authorizations,Training,Email Reminder (1 hr before the call)
+Digital Authorizations,Training,Onboarding Call
+Digital Authorizations,Training,Set property to LIVE
+Digital Authorizations,Training,Post-Onboarding Email (Training Vids)
+Digital Authorizations,Training,GONG Deals Tasking (Notes and Status update)
+Digital Authorizations,Post-Training (LIVE),Follow up email after a week 
+Digital Authorizations,Post-Training (LIVE),5 Auth Forms (Adopted)
+Digital Contracts,Pre-Training,Account Setup (CSA)
+Digital Contracts,Pre-Training,Intro Email
+Digital Contracts,Pre-Training,Call Scheduled
+Digital Contracts,Pre-Training,Call Confirmation 
+Digital Contracts,Pre-Training,Login Details Sent
+Digital Contracts,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Digital Contracts,Training,Email Reminder (1 hr before the call)
+Digital Contracts,Training,Onboarding Call
+Digital Contracts,Training,Set property to LIVE
+Digital Contracts,Training,Post-Onboarding Email (Training Vids)
+Digital Contracts,Training,GONG Deals Tasking (Notes and Status update)
+Digital Contracts,Post-Training (LIVE),Follow up email after a week 
+Digital Contracts,Post-Training (LIVE),5 Contracts (Adopted)
+Guest Messaging and AI,Pre-Training,CSA - Account Setup
+Guest Messaging and AI,Pre-Training,CSA - Account Setup (Twilio)
+Guest Messaging and AI,Pre-Training,CSA - Account Setup (Integration)
+Guest Messaging and AI,Pre-Training,Intro Email
+Guest Messaging and AI,Pre-Training,Call Scheduled
+Guest Messaging and AI,Pre-Training,Call Confirmation 
+Guest Messaging and AI,Pre-Training,Login Details Sent
+Guest Messaging and AI,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Guest Messaging and AI,Training,Email Reminder (1 hr before the call)
+Guest Messaging and AI,Training,Onboarding Call
+Guest Messaging and AI,Training,Post-Onboarding Email (Training Vids and To-Dos)
+Guest Messaging and AI,Client To Do List,Add Preset Messages
+Guest Messaging and AI,Client To Do List,Update AI Knowledge Base (75%)
+Guest Messaging and AI,Training,Follow up for the next 3 days 
+Guest Messaging and AI,Training,Set property to LIVE
+Guest Messaging and AI,Training,GONG Deals Tasking (Notes and Status update)
+Guest Messaging and AI,Post-Training (LIVE),Follow up email after a week 
+Guest Messaging and AI,Post-Training (LIVE),"Adopted if 3rd message sent out to a guest (excluding GJ, Broadcast, Auto-Response)"
+Digital Tipping,Pre-Training,Account Setup (CSA)
+Digital Tipping,Pre-Training,Intro Email
+Digital Tipping,Pre-Training,Call Scheduled
+Digital Tipping,Pre-Training,Call Confirmation 
+Digital Tipping,Pre-Training,Login Details Sent
+Digital Tipping,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Digital Tipping,Training,Email Reminder (1 hr before the call)
+Digital Tipping,Training,Onboarding Call
+Digital Tipping,Training,Order Collateral (confirm during the call)
+Digital Tipping,Training,Post-Onboarding Email (Training Vids and To-Dos)
+Digital Tipping,Client To Do List,Add Tippable Staff
+Digital Tipping,Client To Do List,Wait for Collateral Delivery (10-15 days)
+Digital Tipping,Client To Do List,Begin Placing Collaterals in the hotel 
+Digital Tipping,Training,Set property to LIVE
+Digital Tipping,Training,GONG Deals Tasking (Notes and Status update)
+Digital Tipping,Post-Training (LIVE),Follow up email after a week 
+Digital Tipping,Post-Training (LIVE),Adopted after the property receives 3 tips
+Check-In,Pre-Training,CSA - Account Setup
+Check-In,Pre-Training,CSA - Account Setup (Twilio)
+Check-In,Pre-Training,CSA - Account Setup (Integration)
+Check-In,Pre-Training,Intro Email
+Check-In,Pre-Training,Call Scheduled
+Check-In,Pre-Training,Call Confirmation 
+Check-In,Pre-Training,Login Details Sent
+Check-In,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Check-In,Training,Email Reminder (1 hr before the call)
+Check-In,Training,Onboarding Call
+Check-In,Training,Post-Onboarding Email (Training Vids and To-Dos)
+Check-In,Client To Do List,Send Registration Cards (if applicable)
+Check-In,Client To Do List,Add Preset Messages for GJ
+Check-In,Training,Set property to LIVE
+Check-In,Training,Email the property and inform them that the product is now LIVE
+Check-In,Training,GONG Deals Tasking (Notes and Status update)
+Check-In,Post-Training (LIVE),Follow up email after a week 
+Check-In,Post-Training (LIVE),Adopted on the day the 5th check-in is submitted by guest
+Tablet Registration,Pre-Training,CSA - Account Setup
+Tablet Registration,Pre-Training,Intro Email
+Tablet Registration,Pre-Training,Call Scheduled
+Tablet Registration,Pre-Training,Call Confirmation 
+Tablet Registration,Pre-Training,Login Details Sent
+Tablet Registration,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Tablet Registration,Training,Email Reminder (1 hr before the call)
+Tablet Registration,Training,Onboarding Call
+Tablet Registration,Training,Tablet Setup
+Tablet Registration,Training,Post-Onboarding Email (Training Vids and To-Dos)
+Tablet Registration,Training,Set property to LIVE
+Tablet Registration,Training,Email the property and inform them that the product is now LIVE
+Tablet Registration,Training,GONG Deals Tasking (Notes and Status update)
+Tablet Registration,Post-Training (LIVE),Follow up email after a week 
+Tablet Registration,Post-Training (LIVE),Adopted on the date the 5th registration card has been submitted from the tablet (not mobile/web)
+Check-Out,Pre-Training,CSA - Account Setup (review links)
+Check-Out,Pre-Training,Intro Email
+Check-Out,Pre-Training,Call Scheduled
+Check-Out,Pre-Training,Call Confirmation 
+Check-Out,Pre-Training,Login Details Sent
+Check-Out,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Check-Out,Training,Email Reminder (1 hr before the call)
+Check-Out,Training,Onboarding Call
+Check-Out,Training,Post-Onboarding Email (Training Vids and To-Dos)
+Check-Out,Training,Set property to LIVE
+Check-Out,Training,Email the property and inform them that the product is now LIVE
+Check-Out,Training,GONG Deals Tasking (Notes and Status update)
+Check-Out,Post-Training (LIVE),Follow up email after a week 
+Check-Out,Post-Training (LIVE),Adopted on the date the 5th checkout submitted by the guest
+Upsells,Pre-Training,CSA - Account Setup (review links)
+Upsells,Pre-Training,Intro Email
+Upsells,Pre-Training,Call Scheduled
+Upsells,Pre-Training,Call Confirmation 
+Upsells,Pre-Training,Login Details Sent
+Upsells,Pre-Training,GONG Deals Tasking (Notes and Status update)
+Upsells,Training,Email Reminder (1 hr before the call)
+Upsells,Training,Onboarding Call
+Upsells,Training,Post-Onboarding Email (Training Vids and To-Dos)
+Upsells,Client To Do List,"Configure upsell offerings: room upgrades, early checkins and checkouts"
+Upsells,Training,Set property to LIVE
+Upsells,Training,Email the property and inform them that the product is now LIVE
+Upsells,Training,GONG Deals Tasking (Notes and Status update)
+Upsells,Post-Training (LIVE),Follow up email after a week 
+Upsells,Post-Training (LIVE),Adopted on the date the 5th checkout submitted by the guest
